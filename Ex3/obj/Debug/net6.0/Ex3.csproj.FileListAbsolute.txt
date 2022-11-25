@@ -1,0 +1,15 @@
+/Users/test/Desktop/csharpHW1/Ex3/bin/Debug/net6.0/Ex3
+/Users/test/Desktop/csharpHW1/Ex3/bin/Debug/net6.0/Ex3.deps.json
+/Users/test/Desktop/csharpHW1/Ex3/bin/Debug/net6.0/Ex3.runtimeconfig.json
+/Users/test/Desktop/csharpHW1/Ex3/bin/Debug/net6.0/Ex3.dll
+/Users/test/Desktop/csharpHW1/Ex3/bin/Debug/net6.0/Ex3.pdb
+/Users/test/Desktop/csharpHW1/Ex3/obj/Debug/net6.0/Ex3.csproj.AssemblyReference.cache
+/Users/test/Desktop/csharpHW1/Ex3/obj/Debug/net6.0/Ex3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Desktop/csharpHW1/Ex3/obj/Debug/net6.0/Ex3.AssemblyInfoInputs.cache
+/Users/test/Desktop/csharpHW1/Ex3/obj/Debug/net6.0/Ex3.AssemblyInfo.cs
+/Users/test/Desktop/csharpHW1/Ex3/obj/Debug/net6.0/Ex3.csproj.CoreCompileInputs.cache
+/Users/test/Desktop/csharpHW1/Ex3/obj/Debug/net6.0/Ex3.dll
+/Users/test/Desktop/csharpHW1/Ex3/obj/Debug/net6.0/refint/Ex3.dll
+/Users/test/Desktop/csharpHW1/Ex3/obj/Debug/net6.0/Ex3.pdb
+/Users/test/Desktop/csharpHW1/Ex3/obj/Debug/net6.0/Ex3.genruntimeconfig.cache
+/Users/test/Desktop/csharpHW1/Ex3/obj/Debug/net6.0/ref/Ex3.dll
