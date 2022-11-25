@@ -1,0 +1,15 @@
+/Users/test/Desktop/csharpHW1/Ex2/bin/Debug/net6.0/Ex2
+/Users/test/Desktop/csharpHW1/Ex2/bin/Debug/net6.0/Ex2.deps.json
+/Users/test/Desktop/csharpHW1/Ex2/bin/Debug/net6.0/Ex2.runtimeconfig.json
+/Users/test/Desktop/csharpHW1/Ex2/bin/Debug/net6.0/Ex2.dll
+/Users/test/Desktop/csharpHW1/Ex2/bin/Debug/net6.0/Ex2.pdb
+/Users/test/Desktop/csharpHW1/Ex2/obj/Debug/net6.0/Ex2.csproj.AssemblyReference.cache
+/Users/test/Desktop/csharpHW1/Ex2/obj/Debug/net6.0/Ex2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Desktop/csharpHW1/Ex2/obj/Debug/net6.0/Ex2.AssemblyInfoInputs.cache
+/Users/test/Desktop/csharpHW1/Ex2/obj/Debug/net6.0/Ex2.AssemblyInfo.cs
+/Users/test/Desktop/csharpHW1/Ex2/obj/Debug/net6.0/Ex2.csproj.CoreCompileInputs.cache
+/Users/test/Desktop/csharpHW1/Ex2/obj/Debug/net6.0/Ex2.dll
+/Users/test/Desktop/csharpHW1/Ex2/obj/Debug/net6.0/refint/Ex2.dll
+/Users/test/Desktop/csharpHW1/Ex2/obj/Debug/net6.0/Ex2.pdb
+/Users/test/Desktop/csharpHW1/Ex2/obj/Debug/net6.0/Ex2.genruntimeconfig.cache
+/Users/test/Desktop/csharpHW1/Ex2/obj/Debug/net6.0/ref/Ex2.dll
